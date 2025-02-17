@@ -28,7 +28,7 @@ class Reviewer(Mentor):
         else:
             return 'Ошибка'
 
-best_student = Student('Ruoy', 'Eman', 'vitalya')
+best_student = Student('Ruoy', 'Eman', 'ivan')
 best_student.courses_in_progress += ['Python']
 
 cool_lecturer = Lecturer('John', 'Doe')
